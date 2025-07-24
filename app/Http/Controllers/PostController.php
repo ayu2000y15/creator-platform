@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Storage;
 
 class PostController extends Controller
 {
+
     /**
      * Store a new post with video.
      *
