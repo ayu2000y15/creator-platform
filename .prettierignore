@@ -1,0 +1,10 @@
+resources/js/components/ui/*
+resources/js/ziggy.js
+resources/views/mail/*
+/bootstrap/cache/
+/node_modules/
+/public/
+/storage/
+/vendor/
+*.lock
+.env
